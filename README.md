@@ -1,2 +1,2 @@
-# ObjectDetectionSIFT
-Object detection and SIFT applied to images.
+# CM30080 2019 Coursework
+- Filtering, Object Recognition & Features
